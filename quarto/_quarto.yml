@@ -1,0 +1,24 @@
+title: "Quarto Testing"
+
+project:
+  type: website
+  output-dir: docs 
+  
+website:
+  title: "evogeno quarto lab"
+  navbar:
+    left:
+      href: about.qmd
+        text: Home
+        text: About
+        text: Labs
+        text: Presentation
+        text: Project
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
