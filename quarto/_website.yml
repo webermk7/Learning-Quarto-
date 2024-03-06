@@ -4,17 +4,9 @@ website:
     left:
       - href: home.qmd
         text: Home
-      - home.qmd
-      - href: about.qmd
-        text: About
       - about.qmd
-      - href: labs.qmd
-        text: Labs
       - labs.qmd
-      - href: presentation.qmd 
-        text: Presentation
-      - presentation.qmd
-        href: project.qmd
-        text: Project 
+      - presentation.qmd 
       - project.qmd
+      - home.qmd
      

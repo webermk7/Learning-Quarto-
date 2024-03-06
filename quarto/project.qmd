@@ -1,9 +1,6 @@
 ---
-title: "project"
-format: html
-editor: visual
+title: "Project"
 ---
 
-## Project
 
 Insert Project here...this is a THIRD sentence

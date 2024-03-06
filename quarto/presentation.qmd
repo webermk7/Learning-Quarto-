@@ -1,9 +1,5 @@
 ---
-title: "presentation"
-format: html
-editor: visual
+title: "Presentation"
 ---
-
-## Presentation
 
 Insert presentations here...this is another sentence

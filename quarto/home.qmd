@@ -1,8 +1,6 @@
 ---
-title: "home"
+title: "Home"
 ---
-
-## Home
 
 This is an image to test out Quarto's functions
 
