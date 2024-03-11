@@ -9,7 +9,7 @@ website:
         href: about.qmd
       - text: "License"
         href: labs.qmd
-      - text: "Trademark"
+      - text: "Presentation"
         href: presentation.qmd
       - text: "Project"
         href: project.qmd
