@@ -4,16 +4,11 @@ date: "03-06-2024"
 
 project:
   type: website
-  render:
-    - home.qmd
-    - about.qmd
-    - labs.qmd
-    - project.qmd
-    - presentation.qmd
-  output-dir: docs 
+  output-dir: _site
   
 metadata-files:
   - _website.yml
   - _metadata.yml
 
 editor: visual
+

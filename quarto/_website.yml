@@ -1,12 +1,16 @@
 website:
+  title: "My First Quarto Website"
   navbar:
     background: primary
     left:
-      - href: home.qmd
-        text: Home
-      - about.qmd
-      - labs.qmd
-      - presentation.qmd 
-      - project.qmd
-      - home.qmd
+      - text: "Home"
+        href: home.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: labs.qmd
+      - text: "Trademark"
+        href: presentation.qmd
+      - text: "Project"
+        href: project.qmd
      

@@ -2,4 +2,9 @@
 title: "About"
 ---
 
-About Me: ![This is my face!](images/IMG_2191.jpeg) I endeavor to bridge the gap between academia and industry-policy through progressing research in aging biology. I am currently working on developing a new non-model species for aging - bats - through comparative genomics. My career goal is to perform cutting-edge research in the gerosciences while upholding my core scientific values: improve the planet and human populace, respect and preserve nature, and to continually push the humanistic potential of the biosciences.
+About Me:
+
+![This is my face
+testing testing](images/IMG_2191.jpeg){width="50%"}
+
+I endeavor to bridge the gap between academia and industry-policy through progressing research in aging biology. I am currently working on developing a new non-model species for aging - bats - through comparative genomics. My career goal is to perform cutting-edge research in the gerosciences while upholding my core scientific values: improve the planet and human populace, respect and preserve nature, and to continually push the humanistic potential of the biosciences

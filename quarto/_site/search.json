@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is an image to test out Quarto’s functions\n\n\n\nTswalu Kalahari Reserve, but this time using Quarto to upload to GITHub"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me:\n\n\n\nThis is my face testing testing\n\n\nI endeavor to bridge the gap between academia and industry-policy through progressing research in aging biology. I am currently working on developing a new non-model species for aging - bats - through comparative genomics. My career goal is to perform cutting-edge research in the gerosciences while upholding my core scientific values: improve the planet and human populace, respect and preserve nature, and to continually push the humanistic potential of the biosciences"
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "insert information about labs here…. this is a sentence"
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Insert presentations here…this is another sentence"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "Insert Project here…this is a THIRD sentence"
+  }
+]
