@@ -4,7 +4,7 @@ date: "03-06-2024"
 
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   
 metadata-files:
   - _website.yml
